@@ -1,2 +1,2 @@
-# hydrangea.github.io
-This repo is for hosting sites
+# hydrangea
+This repo is for hosting project sites
